@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M464,448L432,448L432,264h32a8,8 0,0 0,5.03 -14.22l-76.76,-62a72,72 0,1 0,-95.63 -77.24L261.03,81.78a8.006,8.006 0,0 0,-10.06 0l-208,168A8,8 0,0 0,48 264L80,264L80,448L16,448a8,8 0,0 0,0 16L464,464a8,8 0,0 0,0 -16ZM368,64a56,56 0,1 1,-56 56A56.062,56.062 0,0 1,368 64ZM70.64,248 L256,98.28l40.9,33.03A72.1,72.1 0,0 0,368 192c1.31,0 2.6,-0.04 3.89,-0.11L441.36,248ZM216,448L136,448L136,304h80ZM416,448L232,448L232,296a8,8 0,0 0,-8 -8L128,288a8,8 0,0 0,-8 8L120,448L96,448L96,264L416,264Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M200,344a8,8 0,0 0,-8 8v16a8,8 0,0 0,16 0V352A8,8 0,0 0,200 344Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M392,368h-8L384,296a8,8 0,0 0,-8 -8L280,288a8,8 0,0 0,-8 8v72h-8a8,8 0,0 0,-8 8v24a8,8 0,0 0,8 8L392,408a8,8 0,0 0,8 -8L400,376A8,8 0,0 0,392 368ZM336,304h32v64L336,368ZM288,304h32v64L288,368ZM384,392L272,392v-8L384,384Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M368,144m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M389.335,120.15a32,32 0,0 0,-42.67 0,8 8,0 1,0 10.67,11.922 16,16 0,0 1,21.33 0,8 8,0 1,0 10.67,-11.922Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M341.335,114.183a40,40 0,0 1,53.33 0,8 8,0 1,0 10.67,-11.922 56,56 0,0 0,-74.67 0,8 8,0 1,0 10.67,11.922Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M296,192h-8L288,152a8,8 0,0 0,-8 -8L232,144a8,8 0,0 0,-8 8v40h-8a8,8 0,0 0,-8 8v24a8,8 0,0 0,8 8h80a8,8 0,0 0,8 -8L304,200A8,8 0,0 0,296 192ZM264,160h8v32h-8ZM240,160h8v32h-8ZM288,216L224,216v-8h64Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M496,448h-8a8,8 0,0 0,0 16h8a8,8 0,0 0,0 -16Z"/>
+</vector>

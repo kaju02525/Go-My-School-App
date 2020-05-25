@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/action_home"
+    android:enabled="true"
+    android:icon="@drawable/ic_home"
+    android:title="@string/menu_home" />
+
+  <item
+    android:id="@+id/action_attendance"
+    android:enabled="true"
+    android:icon="@drawable/ic_attendance"
+    android:title="@string/menu_attendance" />
+
+
+  <item
+      android:id="@+id/action_news"
+      android:enabled="true"
+      android:icon="@drawable/ic_news"
+      android:title="@string/menu_news"
+      />
+
+  <item
+      android:id="@+id/action_application"
+      android:enabled="true"
+      android:icon="@drawable/ic_application"
+      android:title="@string/menu_application"
+      />
+
+  <item
+      android:id="@+id/action_profile"
+      android:enabled="true"
+      android:icon="@drawable/ic_person"
+      android:title="@string/menu_profile"
+      />
+</menu>

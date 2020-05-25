@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Go My School</string>
+    <string name="login_to_continue">LogIn to continue</string>
+    <string name="placeholder_enter_mobile_number">Enter Mobile Number</string>
+    <string name="placeholder_enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_attendance">Attendance</string>
+    <string name="menu_application">Application</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="menu_notification">Notification</string>
+    <string name="description">Description</string>
+
+
+</resources>
